@@ -4,7 +4,7 @@ import typing as t
 
 import pandas as pd 
 
-from classification_model import __version__ as _verion 
+from classification_model import __version__ as _version 
 from classification_model.config.core import config
 from classification_model.processing.data_manager import load_pipeline
 from classification_model.processing.validation import validate_inputs
